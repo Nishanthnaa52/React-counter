@@ -32,10 +32,10 @@ To run the project, follow these steps:
 2. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-3. Open your browser and navigate to `http://localhost:3000` to see the application running.
+3. Open your browser and navigate to `http://localhost:5173` to see the application running.
 
 ## Building the Project
 
@@ -47,6 +47,4 @@ npm run build
 
 This will create a `build` directory with the production build of your application.
 
-## License
-
-This project is licensed under the MIT License.
+## Happy coding :smiley:
